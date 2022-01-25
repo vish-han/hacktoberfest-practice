@@ -782,6 +782,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Vince Y](https://github.com/vmyu)
   - [Vinicius Ramos](https://github.com/redrookie)
   - [Viraj Shukla](https://github.com/VirajS00)
+  - [Vishal Chauhan](https://github.com/vish-han)
   - [Visinigiri Aditya](https://github.com/adityakumar48)
   - [Vishnu](https://github.com/shukl08vk)
   - [Vittorio Rinaldo](https://github.com/rinaldovittorio)
